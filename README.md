@@ -26,3 +26,33 @@
 │ 20 │ Beatriz   │ 63000.0 │ TI               │
 └────┴───────────┴─────────┴──────────────────┘
 ```
+--Una vez creada la tabla empezaremos a realizar las consultas
+
+-Aplicampos la funcion UPPER y LOWER a la propiedad nombre de tabla
+
+``` sql
+┌───────────────────┬───────────────────┐
+│ nombre_mayusculas │ nombre_minusculas │
+├───────────────────┼───────────────────┤
+│ JUAN              │ juan              │
+│ MARíA             │ maría             │
+│ CARLOS            │ carlos            │
+│ ANA               │ ana               │
+│ PEDRO             │ pedro             │
+│ LAURA             │ laura             │
+│ JAVIER            │ javier            │
+│ CARMEN            │ carmen            │
+│ MIGUEL            │ miguel            │
+│ ELENA             │ elena             │
+│ DIEGO             │ diego             │
+│ SOFíA             │ sofía             │
+│ ANDRéS            │ andrés            │
+│ ISABEL            │ isabel            │
+│ RAúL              │ raúl              │
+│ PATRICIA          │ patricia          │
+│ ALEJANDRO         │ alejandro         │
+│ NATALIA           │ natalia           │
+│ ROBERTO           │ roberto           │
+│ BEATRIZ           │ beatriz           │
+└───────────────────┴─────────────────
+```
