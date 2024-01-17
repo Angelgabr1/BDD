@@ -28,7 +28,7 @@
 ```
 --Una vez creada la tabla empezaremos a realizar las consultas
 
--Aplicampos la funcion UPPER y LOWER a la propiedad nombre de tabla
+-Aplicampos la funcion UPPER y LOWER a la propiedad nombre.
 
 ``` sql
 ┌───────────────────┬───────────────────┐
