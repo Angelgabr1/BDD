@@ -1,5 +1,5 @@
 # BDD
--Muestro el resulatado de la Tabla:
+-Tabla empleados:
 ``` sql 
 ┌────┬───────────┬─────────┬──────────────────┐
 │ id │  nombre   │ salario │   departamento   │
